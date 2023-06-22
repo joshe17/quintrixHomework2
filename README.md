@@ -19,4 +19,4 @@ All the posts should be grouped by the user.
 File Structure:
 The fibonacci algorithm Swift file can be found in the root directory by itself. Calling Fib() with given input parameters will return desired results
 
-The app project is found under userPosts sub-directory. Run the xCode project to see results of build.
+The app project is found under userPostsApp sub-directory. Run the xCode project to see results of build.
